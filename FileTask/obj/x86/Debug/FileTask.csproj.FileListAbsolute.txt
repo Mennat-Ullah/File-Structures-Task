@@ -1,0 +1,5 @@
+C:\Users\manosha\Documents\Visual Studio 2010\Projects\FileTask\FileTask\bin\Debug\FileTask.exe
+C:\Users\manosha\Documents\Visual Studio 2010\Projects\FileTask\FileTask\bin\Debug\FileTask.pdb
+C:\Users\manosha\Documents\Visual Studio 2010\Projects\FileTask\FileTask\obj\x86\Debug\FileTask.csprojResolveAssemblyReference.cache
+C:\Users\manosha\Documents\Visual Studio 2010\Projects\FileTask\FileTask\obj\x86\Debug\FileTask.exe
+C:\Users\manosha\Documents\Visual Studio 2010\Projects\FileTask\FileTask\obj\x86\Debug\FileTask.pdb
